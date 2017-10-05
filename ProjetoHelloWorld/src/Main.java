@@ -7,6 +7,7 @@ public class Main {
 		
 		System.out.println("Segunda mensagem.");
 		
+		System.out.println("Teste segundo usuário.");
 		
 	}
 	
